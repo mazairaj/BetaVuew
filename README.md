@@ -5,4 +5,4 @@ Social Media Application that help users discover the unique activities going on
 ![](./images/ActivitySearch.png)
 ![](./images/ActivityTitlePage.png)
 ![](./images/ActivityDescription.png)
-![](./images/ProfilePage.png)
+![](./images/MyProfPic.png)
